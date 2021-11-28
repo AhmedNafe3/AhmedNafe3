@@ -15,3 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  
 🎅  What's Up About Me
+
+🛠️  Tech Stack
+MOBILE
+Xcode  Swift  SwiftUI  React Native  Expo 
+
+FRONTEND
+JavaScript  TypeScript  React  Styled Components  CSS3  HTML5 
+
+BACKEND
+Deno  Node.js  Express.js  PostgreSQL  MongoDB  Postman   
+
+OTHER
+Git  GitHub  Markdown  Firebase  Jest  ESLint  Prettier 
+
+
