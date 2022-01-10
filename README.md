@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently working on [Jawwy Projects](https://play.google.com/store/apps/developer?id=Jawwy+from+STC)
 
-- 🌱 I’m currently learning **Developing react native and flutter**
+- 🌱 I’m currently learning **Developing Flutter Application cross platform and learn android testing by Junit**
 
-- 👯 I’m looking to collaborate on **New Android Technology like using jetpack components or developing flutter application**
+- 👯 I’m looking to collaborate on **New Android Technology like using jetpack components ,android build testing app or flutter application **
 
 - 🤝 I’m looking for help with **Developing Native IOS**
 
